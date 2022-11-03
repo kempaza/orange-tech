@@ -1,0 +1,91 @@
+Anotações das Aulas DIO
+1. Pensamento Computacional
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser imprementados na computador.
+
+Sistemico e eficiente: Formulação de problemas
+
+Sejam capazes de resolver: Humanos e máquinas
+
+Baseado em 4 Pilares: Dividir um problema complexo em subproblemas
+
+Decomposição
+Reconhecimento de padões
+Abstração
+Design de algoritimos
+Base de cada pilar
+===========================================================
+Decomposição: Dividir um problema complexo em subproblemas
+
+Reconhecimento de padrões: Identificar padrões ou tendências
+
+Abstração: Extrapolar o conseito do problema para uma forma generalista
+
+Design de algoritmos: Automatizar, Definir passo a passo a solução do problema
+==================================================================
+Processo Contínuo
+Definir uma solução
+Testar a solução
+Aperfeiçoamento da solução encontrada
+================================================================================
+2. Raciocínio Lógico
+Raciocínio lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+
+Classificaçõe
+
+Indução: Fenômeno observado.
+Dedução: Previsões e explicações.
+Abdução: Diagnóesticos.
+==============================================================
+3. Aperfeiçoamento
+Encontrar solução eficiente.
+Otimizar processos.
+Simplificar linhas de códigos.
+Funções bem definidas.
+===============================================================
+4. Decomposição
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+
+Exemplos
+
+
+                       Cotidiano: cozinhar
+
+Identificar os ingredientes
+Determinar as etapas (sequêncial ou paralelo)
+Executar cada etapa
+Agregar os ingredientes para finalizar (Recompor com coerência)
+=================================================================
+                    Funcionamento de uma bike
+
+Identificar os componentes
+Papel de cada componente
+Interdependência das peças
+=================================================================
+                           Criar um app
+
+Finalidade
+Interface
+Funcinalidades
+Pré-requisitos
+=================================================================
+
+5. Padrões
+
+Reconhecimento de Padrões
+
+Modelo base
+
+Estrutura invariante
+Repetição
+Como simular esse comportamento?
+Representação de atributos
+Aprendizado – conceito associado ao objeto
+Armazenar dados
+Regras de decisão
+=================================================================
+Aplicações
+Classificação de dados
+Reconhecimento de imagem
+Reconhecimento de fala
+Análise de cenas
+Classificação de documentos

@@ -1,0 +1,35 @@
+Introduçao ao Git 
+
+Controle de versão 
+Armazenamento em nuvem 
+Trabalho em equipe
+Melhorar seu código
+Reconhecimento 
+
+O GitHub permite q outras pessoas tenham acesso ao seus codigos
+e podem te ajudar a melhorar sem que voce perca deu repositorio antigo
+podendo revisar depois.
+
+Atalhos para usar no terminal:
+
+- Mudar de pastas = cd
+- Listar as pastas = dir
+- Criar pastas / Arquivos = mkdir
+- Deletar pastas / Arquivos = del / rmdir
+
+Download Git:https://git-scm.com/downloads
+
+Como o Git funciona por baixo dos panos:
+
+- SHA1
+- Objetos fundamentais 
+- Sistema distribuívo
+- Segurança
+
+A sigla SHA significa Secure Hash Algorithm, é um conjunto de funções hash
+criptográficas projetadas pela NSA (Agencia de Segurança Nacional dos EUA).
+
+A criptação gera conjunto de caracteres de 40 digitos. 
+
+SHA1 é uma forma curta de representar um arquivo.
+
